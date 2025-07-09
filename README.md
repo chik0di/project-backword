@@ -13,6 +13,15 @@ Mission: Create a bash script (backup.sh) that automates this process daily, sec
 
 - Apply logic, string manipulation, conditional execution, and automation scheduling
 
+<h2 align="center">Development Environment</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" alt="Bash" />
+</p>
 
 <h2 align="center">📁 Project Structure</h2>
 
@@ -67,3 +76,9 @@ Then paste:
 15 15 * * * /home/<your_username>/projects/backup_cron/backup.sh /home/<your_username>/projects/backup_cron/encrypted_passwords /home/<your_username>/projects/backup_cron/passwords_backup
 ```
 📝 Replace <your_username> with your actual username.
+
+
+<h3 align="right">Assigned By</h3>
+<p align="right">
+  <a href="https://www.coursera.org/account/accomplishments/verify/TG89DJFGV7VD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
+    <img width="100" src="https://img.icons8.com/nolan/64/ibm.png" alt="IBM" />
